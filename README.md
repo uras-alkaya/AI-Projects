@@ -1,12 +1,10 @@
 # 📊 Customer Churn Analysis & Prediction
 
-<p align="left">
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)" alt="Python" />
-  <img src="[https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)" alt="Pandas" />
-  <img src="[https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)" alt="Scikit-learn" />
-  <img src="[https://img.shields.io/badge/Matplotlib-11557c?style=flat-square](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)" alt="Matplotlib" />
-  <img src="[https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)" alt="Jupyter" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
 ## 📝 Project Overview
 This project is an end-to-end machine learning and data analytics study developed to predict **customer churn**. It encompasses comprehensive data analysis, visualization, feature engineering, and model development processes. The findings are reported to support data-driven business decisions.
