@@ -13,8 +13,8 @@ This project is an end-to-end machine learning and data analytics study develope
 The project is divided into different Jupyter Notebook files to process the data step-by-step:
 
 * 📁 **`dataset/`**: The folder containing the original customer dataset used in the analysis.
-* 📓 **`churn_eda.ipynb`**: Exploratory Data Analysis (EDA) and data visualization steps to understand the data structure.
-* 📓 **`Churn_Features_Final.ipynb`**: Data preprocessing, missing/outlier value management, and feature engineering to prepare the data for machine learning models.
+* 📓 **`churn_eda.ipynb`**: Exploratory Data Analysis (EDA) and data visualization steps, including outlier detection and understanding the data structure.
+* 📓 **`Churn_Features_Final.ipynb`**: Data preprocessing, feature engineering, and final preparation of the data for machine learning models.
 * 📄 **`churn_features_final.csv`**: The cleaned and preprocessed dataset, ready for model training.
 * 📓 **`Churn_Modeling.ipynb`**: The main modeling file where various machine learning classification algorithms are trained, tested, and their performance metrics are compared.
 
